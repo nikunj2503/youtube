@@ -7,7 +7,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
 
-const API_KEY =  'AIzaSyA3K2vOaZsCvilqd8c1GkrXG7mPBSY_pqI';
+const API_KEY =  '';
 
 class App extends Component {
 
